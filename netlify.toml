@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to ="/instaclone.html"
+status = 200
