@@ -1,2 +1,2 @@
 # instagram-clone
-basically a static instagram homepage with an additional feature of light/dark toggle button. 
+basically a static instagram homepage with an additional features like light/dark toggle button. 
